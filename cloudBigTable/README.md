@@ -37,4 +37,4 @@
    > cbt set example-table r1 exampleset:c2=pilots
 
 10. Review the result:
-    > cbt read la-table
+    > cbt read example-table
