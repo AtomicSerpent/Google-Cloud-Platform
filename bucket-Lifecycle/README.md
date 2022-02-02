@@ -1,7 +1,5 @@
 ### Setting Cloud Storage Lifecycle Rules
 
-Click the icon in the top navigation to activate Cloud Shell.
-
 In the Cloud Shell, enter the following code:
 
 > gsutil lifecycle get gs://&lt;BUCKET_NAME>
