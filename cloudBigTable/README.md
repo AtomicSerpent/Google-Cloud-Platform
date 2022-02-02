@@ -4,8 +4,7 @@
 
 2. Install and Configure **cbt**
 
-> gcloud components update
-> gcloud components install cbt
+> gcloud components update && gcloud components install cbt
 
 3. Configure cbt:
 
